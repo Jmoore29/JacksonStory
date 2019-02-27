@@ -1,11 +1,8 @@
 There once was a man named Bob.
 He was pretty good at his job.
 All day long he chopped down trees.
-<<<<<<< HEAD
 Even in the winter when there were no leaves. 
 However there was always a breeze.
-=======
-Even in the winter when there were no leaves.
 
 He would haul the logs off to a place downtown.
 And repeat and repeat till all the trees were a ground.
@@ -19,4 +16,8 @@ It was tragic for his family.
 His family fought over his estate.
 They realized bob was poor.
 They hate bob now.
+
+Bob lived a good life, among thoose trees.
+He was a simple man and care not for things like money.
+The real joy of his life was when he found one of thoose special trees and could eat honey. 
 
